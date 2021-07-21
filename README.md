@@ -1,1 +1,1 @@
-https://sentinelli.github.io/konstruct/
+https://youngblader.github.io/konstruct/
